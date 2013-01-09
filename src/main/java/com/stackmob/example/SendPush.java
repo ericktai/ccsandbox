@@ -2,7 +2,7 @@
  * Copyright 2012 LivLiv Solutions
  *
  */
-package com.stackmob.examples;
+package com.stackmob.example;
 
 
 //import com.google.gson.JsonElement;
